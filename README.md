@@ -1,0 +1,2 @@
+# hadoop_aboutyun
+在aboutyun上面运行的hadoop例子
